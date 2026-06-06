@@ -1,5 +1,5 @@
 # Design System & Component Library
-##The Aura Design System, a comprehensive foundation
+## The Aura Design System, a comprehensive foundation
 
 ## Overview
 
